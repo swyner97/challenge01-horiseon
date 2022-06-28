@@ -6,4 +6,6 @@ I improved the code by adding alts, making sure the classes were doing what they
 Lastly, I had to move the side bar up the code so that it will appear in the correct place, next to the sections rather than under them.
 
 For the CSS, I condensed the selectors that were repetitive into one selector and I renamed some classes to be a little more depictive of the purpose of the class for better understanding. 
+
+Deployed site:  https://swyner97.github.io/challenge01-horiseon/
 # urban-octo-telegram
